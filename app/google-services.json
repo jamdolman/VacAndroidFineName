@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651395251619",
+    "firebase_url": "https://fir-loginregister-3b023.firebaseio.com",
+    "project_id": "fir-loginregister-3b023",
+    "storage_bucket": "fir-loginregister-3b023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651395251619:android:082a07984d939c8b",
+        "android_client_info": {
+          "package_name": "com.example.hoon.firebaseloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651395251619-3ifd30bla1qurnncqrncvo9375ceiupi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoon.firebaseloginregister",
+            "certificate_hash": "f5d9464f1a8cb8f571a9da9fd371691f9b16e57f"
+          }
+        },
+        {
+          "client_id": "651395251619-its97v8oq2c9ggbgnfbrkq1jafh7ks26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKplsKRY-bvFxS90-bonbpInC567bf6_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651395251619-its97v8oq2c9ggbgnfbrkq1jafh7ks26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
